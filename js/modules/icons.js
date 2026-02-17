@@ -3,57 +3,57 @@
 // Uses SVG files from /assets/img/logos/herramientas/
 // ---------------------------
 
-const LOGOS_BASE = '/assets/img/logos/Herramientas/';
+const LOGOS_BASE = '/assets/img/logos/herramientas/';
 
 /**
  * Map from tool name (as it appears in tools.txt) to the SVG filename.
  * Keys are normalized to lowercase for matching.
  */
 const TOOL_FILE_MAP = {
-    'illustrator': 'Illustrator.svg',
+    'illustrator': 'illustrator.svg',
     'photoshop': 'photoshop.svg',
-    'lightroom': 'Lightroom.svg',
-    'indesign': 'Indesign.svg',
-    'after effects': 'After effects.svg',
-    'premier': 'Premier.svg',
-    'figma': 'Figma.svg',
-    'capcut': 'CapCut.svg',
-    'cap cut': 'CapCut.svg',
-    'wordpress': 'Wordpress.svg',
-    'elementor': 'Elementor.svg',
-    'meta': 'Meta.svg',
-    'ads manager': 'Ads Manager.svg',
-    'canon eos utility': 'Canon Eos Utility.svg',
-    'chat gpt': 'Chat gpt.svg',
-    'chatgpt': 'Chat gpt.svg',
-    'gemini': 'Gemini.svg',
-    'claude': 'Claude.svg',
-    'claude code': 'Claude Code.svg',
-    'antigravity': 'Antigravity.svg',
-    'airtable': 'Airtable.svg',
-    'n8n': 'N8N.svg',
-    'make': 'MAKE.svg',
-    'notion': 'Notion.svg',
-    'trello': 'Trello.svg',
-    'supabase': 'Supabase.svg',
-    'vite': 'Vite.svg',
-    'javascript': 'Javascript.svg',
-    'html 5': 'Html 5.svg',
-    'html5': 'Html 5.svg',
-    'css 3': 'Css 3.svg',
-    'css3': 'Css 3.svg',
-    'adobe creative cloud': 'Adobe-creative-cloud.svg',
+    'lightroom': 'lightroom.svg',
+    'indesign': 'indesign.svg',
+    'after effects': 'after-effects.svg',
+    'premier': 'premier.svg',
+    'figma': 'figma.svg',
+    'capcut': 'capcut.svg',
+    'cap cut': 'capcut.svg',
+    'wordpress': 'wordpress.svg',
+    'elementor': 'elementor.svg',
+    'meta': 'meta.svg',
+    'ads manager': 'ads-manager.svg',
+    'canon eos utility': 'canon-eos-utility.svg',
+    'chat gpt': 'chat-gpt.svg',
+    'chatgpt': 'chat-gpt.svg',
+    'gemini': 'gemini.svg',
+    'claude': 'claude.svg',
+    'claude code': 'claude-code.svg',
+    'antigravity': 'antigravity.svg',
+    'airtable': 'airtable.svg',
+    'n8n': 'n8n.svg',
+    'make': 'make.svg',
+    'notion': 'notion.svg',
+    'trello': 'trello.svg',
+    'supabase': 'supabase.svg',
+    'vite': 'vite.svg',
+    'javascript': 'javascript.svg',
+    'html 5': 'html-5.svg',
+    'html5': 'html-5.svg',
+    'css 3': 'css-3.svg',
+    'css3': 'css-3.svg',
+    'adobe creative cloud': 'adobe-creative-cloud.svg',
 };
 
 /**
  * Map equipment keywords to their SVG filenames.
  */
 const EQUIPMENT_FILE_MAP = {
-    'canon': 'Camara.svg',
-    'lente': 'Lente de camara.svg',
-    'micrófono': 'Microfonos.svg',
-    'microfono': 'Microfonos.svg',
-    'micrófono': 'Microfonos.svg',
+    'canon': 'camara.svg',
+    'lente': 'lente-de-camara.svg',
+    'micrófono': 'microfonos.svg',
+    'microfono': 'microfonos.svg',
+    'micrófono': 'microfonos.svg',
 };
 
 /**
