@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff7262;
+      }
+
+      .cls-2 {
+        fill: #a259ff;
+      }
+
+      .cls-3 {
+        fill: #1abcfe;
+      }
+
+      .cls-4 {
+        fill: #fefefe;
+      }
+
+      .cls-5 {
+        fill: #f24e1e;
+      }
+
+      .cls-6 {
+        fill: #0acf83;
+      }
+    </style>
+  </defs>
+  <g id="Diseño_Grafico" data-name="Diseño Grafico">
+    <g id="Figma">
+      <g>
+        <rect class="cls-4" x="54.96" y="16.86" width="407.98" height="407.98" rx="66.71" ry="66.71"/>
+        <g>
+          <path id="path0_fill" data-name="path0 fill" class="cls-6" d="M207.21,376.06c28.56,0,51.74-23.18,51.74-51.74v-51.74h-51.74c-28.56,0-51.74,23.18-51.74,51.74s23.18,51.74,51.74,51.74"/>
+          <path id="path1_fill" data-name="path1 fill" class="cls-2" d="M155.47,220.85c0-28.56,23.18-51.74,51.74-51.74h51.74v103.48h-51.74c-28.56,0-51.74-23.18-51.74-51.74Z"/>
+          <path id="path1_fill-2" data-name="path1 fill" class="cls-5" d="M258.95,65.63v103.48h-51.74c-28.56,0-51.74-23.18-51.74-51.74s23.18-51.74,51.74-51.74"/>
+          <path id="path2_fill" data-name="path2 fill" class="cls-1" d="M310.69,65.63c28.56,0,51.74,23.18,51.74,51.74s-23.18,51.74-51.74,51.74h-51.74v-103.48"/>
+          <path id="path3_fill" data-name="path3 fill" class="cls-3" d="M362.43,220.85c0,28.56-23.18,51.74-51.74,51.74s-51.74-23.18-51.74-51.74,23.18-51.74,51.74-51.74,51.74,23.18,51.74,51.74Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

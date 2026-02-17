@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Jasmir Galeano — Director Digital</title>
+  <meta name="description"
+    content="Estrategia, diseño y producción para elevar percepción de marca y mejorar conversión." />
+
+  <!-- SEO AVANZADO -->
+  <meta property="og:title" content="Jasmir Galeano — Brand & Growth Architect" />
+  <meta property="og:description"
+    content="Estrategia, diseño y producción para elevar percepción de marca y mejorar conversión." />
+  <meta property="og:image" content="https://jasmir.com/images/perfil.jpg" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Jasmir Galeano — Brand & Growth Architect" />
+  <meta name="twitter:description" content="Elevo marcas mediante estrategia y diseño de alto impacto." />
+  <meta name="twitter:image" content="https://jasmir.com/images/perfil.jpg" />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "Jasmir Galeano",
+      "image": "https://jasmir.com/images/perfil.jpg",
+      "description": "Consultor de Estrategia & Diseño para negocios que buscan escalar su percepción de marca.",
+      "url": "https://jasmir.com",
+      "sameAs": [
+        "https://www.linkedin.com/in/jasmirgaleano/",
+        "https://www.instagram.com/jasmirgaleano/"
+      ],
+      "knowsAbout": ["Brand Strategy", "Graphic Design", "Video Production", "Growth Marketing"]
+    }
+  </script>
+
+  <!-- GOOGLE FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap"
+    rel="stylesheet">
+
+  <!-- ESTILOS PRINCIPALES -->
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!-- FAVICON -->
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23111'/%3E%3Ctext x='50' y='72' font-family='Outfit,sans-serif' font-size='54' font-weight='700' fill='%23fff' text-anchor='middle'%3EJG%3C/text%3E%3C/svg%3E">
+</head>
+
+<body>
+  <!-- Mobile Topbar -->
+  <div class="topbar" role="banner">
+    <div class="topbar-inner">
+      <div class="brand-mini" aria-label="Marca">
+        <img src="assets/img/logos/brand-full.svg" alt="Jasmir Galeano" class="logo-mobile">
+      </div>
+      <button class="menu-btn" id="openMenu" aria-label="Abrir menú" aria-controls="drawer" aria-expanded="false"
+        data-i18n-aria="menu_open">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16" stroke="#111" stroke-width="2" stroke-linecap="round" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Drawer -->
+  <div class="drawer-backdrop" id="backdrop" aria-hidden="true"></div>
+  <aside class="drawer" id="drawer" aria-label="Menú móvil">
+    <div class="brand" style="padding-top:6px">
+      <div class="avatar js-avatar" style="width:92px;height:92px"></div>
+      <div class="name js-name" style="font-size:20px">Jasmir Galeano</div>
+      <div class="role js-role">Consultor de Estrategia & Diseño</div>
+      <div class="chips">
+        <span class="chip" data-i18n="chip_strategy">Estrategia</span>
+        <span class="chip" data-i18n="chip_design">Diseño</span>
+        <span class="chip" data-i18n="chip_growth">Growth</span>
+      </div>
+    </div>
+
+    <div class="sb-cta">
+      <a class="btn btn-primary" href="#contacto">
+        <span data-i18n="cta_call">Agendar llamada</span>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M5 12h12M13 6l6 6-6 6" stroke="white" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round" />
+        </svg>
+      </a>
+    </div>
+
+    <nav class="sb-nav" aria-label="Navegación">
+      <a class="nav-item" href="#inicio" data-nav>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+          <polyline points="9 22 9 12 15 12 15 22"></polyline>
+        </svg>
+        <span data-i18n="nav_home">Inicio</span>
+      </a>
+      <a class="nav-item" href="#servicios" data-nav>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round">
+          <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+          <polyline points="2 17 12 22 22 17"></polyline>
+          <polyline points="2 12 12 17 22 12"></polyline>
+        </svg>
+        <span data-i18n="nav_services">Servicios</span>
+      </a>
+      <a class="nav-item" href="#proceso" data-nav>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+        </svg>
+        <span data-i18n="nav_process">Proceso</span>
+      </a>
+      <a class="nav-item" href="#proyectos" data-nav>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="3" width="7" height="7"></rect>
+          <rect x="14" y="3" width="7" height="7"></rect>
+          <rect x="14" y="14" width="7" height="7"></rect>
+          <rect x="3" y="14" width="7" height="7"></rect>
+        </svg>
+        <span data-i18n="nav_projects">Proyectos</span>
+      </a>
+      <a class="nav-item" href="#contacto" data-nav>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+          <polyline points="22,6 12,13 2,6"></polyline>
+        </svg>
+        <span data-i18n="nav_contact">Contacto</span>
+      </a>
+    </nav>
+
+    <div class="sb-footer">
+      <div class="lang-switch">
+        <button data-lang="es" class="lang-btn active">ES</button>
+        <span class="sep">/</span>
+        <button data-lang="en" class="lang-btn">EN</button>
+      </div>
+      <div class="social">
+        <a class="icon-btn" href="https://www.linkedin.com/in/jasmir-galeano-777978329/" target="_blank" rel="noopener"
+          aria-label="LinkedIn">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+            <path
+              d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+          </svg>
+        </a>
+        <a class="icon-btn" href="mailto:jasmir.galeanom@gmail.com" aria-label="Email">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+            <polyline points="22,6 12,13 2,6"></polyline>
+          </svg>
+        </a>
+
+      </div>
+    </div>
+  </aside>
+
+  <div class="app">
+    <!-- Desktop Sidebar -->
+    <aside class="sidebar" aria-label="Barra lateral">
+      <div class="card">
+        <div class="brand">
+          <div class="avatar js-avatar" aria-label="Foto"></div>
+
+          <div class="name js-name">Jasmir Galeano</div>
+          <div class="role js-role">Consultor de Estrategia & Diseño</div>
+
+          <div class="chips" aria-label="Áreas">
+            <span class="chip" data-i18n="chip_strategy">Estrategia</span>
+            <span class="chip" data-i18n="chip_design">Diseño</span>
+            <span class="chip" data-i18n="chip_growth">Growth</span>
+          </div>
+        </div>
+
+        <div class="sb-cta">
+          <a class="btn btn-primary" href="#contacto">
+            <span data-i18n="cta_call">Agendar llamada</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M5 12h12M13 6l6 6-6 6" stroke="white" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+            </svg>
+          </a>
+        </div>
+
+        <nav class="sb-nav" aria-label="Navegación">
+          <a class="nav-item" href="#inicio" data-nav>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+              <polyline points="9 22 9 12 15 12 15 22"></polyline>
+            </svg>
+            <span data-i18n="nav_home">Inicio</span>
+          </a>
+          <a class="nav-item" href="#servicios" data-nav>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round">
+              <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+              <polyline points="2 17 12 22 22 17"></polyline>
+              <polyline points="2 12 12 17 22 12"></polyline>
+            </svg>
+            <span data-i18n="nav_services">Servicios</span>
+          </a>
+          <a class="nav-item" href="#proceso" data-nav>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+            </svg>
+            <span data-i18n="nav_process">Proceso</span>
+          </a>
+          <a class="nav-item" href="#proyectos" data-nav>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="3" width="7" height="7"></rect>
+              <rect x="14" y="3" width="7" height="7"></rect>
+              <rect x="14" y="14" width="7" height="7"></rect>
+              <rect x="3" y="14" width="7" height="7"></rect>
+            </svg>
+            <span data-i18n="nav_projects">Proyectos</span>
+          </a>
+          <a class="nav-item" href="#contacto" data-nav>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+              <polyline points="22,6 12,13 2,6"></polyline>
+            </svg>
+            <span data-i18n="nav_contact">Contacto</span>
+          </a>
+        </nav>
+
+        <div class="sb-footer">
+          <div class="lang-switch">
+            <button data-lang="es" class="lang-btn active">ES</button>
+            <span class="sep">/</span>
+            <button data-lang="en" class="lang-btn">EN</button>
+          </div>
+          <div class="social">
+            <a class="icon-btn" href="https://www.linkedin.com/in/jasmir-galeano-777978329/" target="_blank"
+              rel="noopener" aria-label="LinkedIn">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                <!-- SVG Icon Content -->
+                <path
+                  d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+              </svg>
+            </a>
+            <a class="icon-btn" href="mailto:jasmir.galeanom@gmail.com" aria-label="Email">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                <polyline points="22,6 12,13 2,6"></polyline>
+              </svg>
+            </a>
+
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main -->
+    <main class="main" id="inicio">
+      <div class="wrap">
+
+        <!-- HERO Section -->
+        <section class="hero" aria-label="Hero">
+          <div class="hero-left">
+            <h1 class="hero-title">
+              <!-- Dynamic -->
+            </h1>
+            <p class="hero-p">
+              <!-- Dynamic -->
+            </p>
+
+            <div class="hero-actions">
+              <a class="btn btn-light" href="#contacto" data-i18n="cta_call">Agendar llamada</a>
+              <a class="btn btn-outline" href="#proyectos" data-i18n="cta_cases">Ver casos</a>
+            </div>
+
+            <div class="microproof" aria-label="Microprueba">
+              <span data-i18n="micro_delivery"><b>Entrega ordenada</b> en etapas</span>
+              <span class="dot" data-i18n="micro_brand">Brand systems</span>
+              <span class="dot" data-i18n="micro_production">Producción ejecutable</span>
+            </div>
+          </div>
+
+          <div class="portrait" aria-label="Retrato">
+            <div class="frame">
+              <div class="portrait-img">
+                <!-- Dynamic -->
+              </div>
+              <div class="badge" aria-label="Disponibilidad">
+                <i aria-hidden="true"></i>
+                <span data-i18n="badge_available">Disponible</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- TRUST Section: Infinite Marquee -->
+        <section class="trust" aria-label="Confianza">
+          <div class="trust-title" data-i18n="trust_title">Marcas / equipos con los que he colaborado</div>
+          <div class="marquee-wrapper">
+            <div class="marquee-track">
+              <!-- Grupo 1 (Original) -->
+              <img src="assets/img/logos/Energy.svg" alt="Energy" class="marquee-logo">
+              <img src="assets/img/logos/FEELP.svg" alt="FEELP" class="marquee-logo">
+              <img src="assets/img/logos/Fitness one.svg" alt="Fitness One" class="marquee-logo">
+              <img src="assets/img/logos/Gymrat store.svg" alt="Gymrat Store" class="marquee-logo">
+              <img src="assets/img/logos/Kwnicaragua.svg" alt="KW Nicaragua" class="marquee-logo">
+              <img src="assets/img/logos/Mypetmatch.svg" alt="MyPetMatch" class="marquee-logo">
+              <img src="assets/img/logos/Prime tech.svg" alt="Prime Tech" class="marquee-logo">
+              <!-- Grupo 2 (Duplicado para loop infinito) -->
+              <img src="assets/img/logos/Energy.svg" alt="Energy" class="marquee-logo" aria-hidden="true">
+              <img src="assets/img/logos/FEELP.svg" alt="FEELP" class="marquee-logo" aria-hidden="true">
+              <img src="assets/img/logos/Fitness one.svg" alt="Fitness One" class="marquee-logo" aria-hidden="true">
+              <img src="assets/img/logos/Gymrat store.svg" alt="Gymrat Store" class="marquee-logo" aria-hidden="true">
+              <img src="assets/img/logos/Kwnicaragua.svg" alt="KW Nicaragua" class="marquee-logo" aria-hidden="true">
+              <img src="assets/img/logos/Mypetmatch.svg" alt="MyPetMatch" class="marquee-logo" aria-hidden="true">
+              <img src="assets/img/logos/Prime tech.svg" alt="Prime Tech" class="marquee-logo" aria-hidden="true">
+            </div>
+          </div>
+        </section>
+
+        <!-- SERVICIOS Section -->
+        <section id="servicios" aria-label="Servicios">
+          <div class="section-head">
+            <div class="kicker" data-i18n="kicker_services">Servicios</div>
+            <h2 data-i18n="h2_services">Una oferta integral.</h2>
+            <p class="sub" data-i18n="sub_services">Tres líneas de trabajo claras, con entregables concretos.</p>
+          </div>
+
+          <div class="grid grid-3">
+            <!-- Dynamic Services -->
+          </div>
+        </section>
+
+        <!-- PROCESO Section -->
+        <section id="proceso" aria-label="Proceso">
+          <div class="section-head">
+            <div class="kicker" data-i18n="kicker_process">Proceso</div>
+            <h2 data-i18n="h2_process">Orden, claridad y ejecución.</h2>
+          </div>
+          <div class="steps">
+            <div class="step">
+              <div class="n">01</div>
+              <h4 data-i18n="step1_title">Diagnóstico</h4>
+              <p data-i18n="step1_desc">Auditoría rápida de oferta y marca.</p>
+            </div>
+            <div class="step">
+              <div class="n">02</div>
+              <h4 data-i18n="step2_title">Propuesta</h4>
+              <p data-i18n="step2_desc">Plan por etapas con entregables claros.</p>
+            </div>
+            <div class="step">
+              <div class="n">03</div>
+              <h4 data-i18n="step3_title">Ejecución</h4>
+              <p data-i18n="step3_desc">Diseño y producción alineados.</p>
+            </div>
+            <div class="step">
+              <div class="n">04</div>
+              <h4 data-i18n="step4_title">Optimización</h4>
+              <p data-i18n="step4_desc">Ajustes basados en datos.</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- PROYECTOS Section -->
+        <section id="proyectos" aria-label="Proyectos">
+          <div class="section-head">
+            <div class="kicker" data-i18n="kicker_cases">Casos</div>
+            <h2 data-i18n="h2_projects">Proyectos seleccionados</h2>
+            <p class="sub" data-i18n="sub_projects">Haz clic en "Ver caso" para ver el detalle en modo inmersivo.</p>
+          </div>
+
+          <div class="grid grid-2">
+            <!-- Dynamic Projects -->
+          </div>
+        </section>
+
+        <!-- CONTACT Section -->
+        <section id="contacto" aria-label="Contacto">
+          <div class="section-head">
+            <div class="kicker" data-i18n="kicker_contact">Contacto</div>
+            <h2 data-i18n="h2_contact">Listo para elevar tu marca.</h2>
+          </div>
+
+          <div class="contact">
+            <div class="card-w">
+              <h3 data-i18n="contact_quick_title">Contacto rápido</h3>
+              <p data-i18n="contact_quick_desc">El camino corto es el mejor.</p>
+              <div class="hero-actions" style="margin-top:14px">
+                <a class="btn" href="https://www.linkedin.com/in/jasmir-galeano-777978329/" target="_blank"
+                  rel="noopener" aria-label="LinkedIn"
+                  style="padding: 10px 20px; background: #fff; color: #111; border: 1px solid var(--line); box-shadow: var(--shadow-sm);">
+                  <img src="assets/img/logos/Herramientas/Linkedin Horizontal.svg" alt="LinkedIn" style="height: 24px;">
+                </a>
+                <a class="btn btn-outline" href="mailto:jasmir.galeanom@gmail.com" aria-label="Email">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" stroke-linejoin="round" style="margin-right: 8px;">
+                    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                    <polyline points="22,6 12,13 2,6"></polyline>
+                  </svg>
+                  Email
+                </a>
+              </div>
+            </div>
+
+            <div class="card-w">
+              <h3 data-i18n="form_title">Formulario</h3>
+              <form id="leadForm">
+                <label><span data-i18n="form_name">Nombre</span> <input name="nombre" required /></label>
+                <label><span data-i18n="form_company">Empresa</span> <input name="empresa" required /></label>
+                <label><span data-i18n="form_need">Necesidad</span>
+                  <select name="necesidad">
+                    <option value="estrategia" data-i18n="chip_strategy">Estrategia</option>
+                    <option value="diseno" data-i18n="chip_design">Diseño</option>
+                    <option value="produccion" data-i18n="chip_production">Producción Audiovisual</option>
+                    <option value="growth" data-i18n="chip_growth">Growth</option>
+                    <option value="otro" data-i18n="chip_other">Otro</option>
+                  </select>
+                </label>
+                <div id="otrosWrap" style="display:none">
+                  <label><span data-i18n="form_other_detail">¿Qué necesitas específicamente?</span>
+                    <textarea name="otros_detalle" id="otrosInput" rows="3"
+                      placeholder="Describe tu necesidad..."></textarea>
+                  </label>
+                </div>
+                <button class="btn btn-light" type="submit" data-i18n="form_submit">Enviar</button>
+              </form>
+            </div>
+          </div>
+        </section>
+
+        <!-- FOOTER -->
+        <div class="footer">
+          <span>© <span id="year"></span> <span class="js-name">Jasmir Galeano</span></span>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- SCRIPTS -->
+  <script type="module" src="/js/app.js"></script>
+</body>
+
+</html>

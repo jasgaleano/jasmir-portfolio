@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_6);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #f7df1e;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-2" d="M-129.52-434.04c0,104.55-84.88,189.43-189.43,189.43s-189.43-84.88-189.43-189.43,84.88-189.43,189.43-189.43,189.43,84.88,189.43,189.43Z"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_6" data-name="Degradado sin nombre 6" x1="1216.57" y1="4545.4" x2="1217.33" y2="4545.4" gradientTransform="translate(-381828.96 245169.09) rotate(42.26) scale(96.43 -96.43)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Programaci_on" data-name="Programaci[on">
+    <g id="Javascript">
+      <g>
+        <rect class="cls-3" x="70.95" y="32.85" width="376" height="376"/>
+        <path d="M323.53,326.6c7.57,12.37,17.43,21.46,34.85,21.46,14.64,0,23.99-7.32,23.99-17.43,0-12.12-9.61-16.41-25.72-23.46l-8.83-3.79c-25.5-10.86-42.43-24.47-42.43-53.24,0-26.5,20.19-46.67,51.74-46.67,22.46,0,38.61,7.82,50.25,28.29l-27.51,17.67c-6.06-10.86-12.59-15.14-22.74-15.14s-16.91,6.57-16.91,15.14c0,10.6,6.57,14.89,21.72,21.46l8.83,3.78c30.02,12.87,46.97,26,46.97,55.5,0,31.81-24.99,49.24-58.55,49.24s-54.01-15.64-64.39-36.13l28.71-16.68ZM198.71,329.66c5.55,9.85,10.6,18.17,22.74,18.17s18.93-4.54,18.93-22.2v-120.14h35.33v120.62c0,36.59-21.45,53.24-52.76,53.24-28.29,0-44.67-14.64-53-32.27l28.76-17.41Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="Meta">
+    <g id="Ads_Manager" data-name="Ads Manager">
+      <g class="cls-4">
+        <path class="cls-1" d="M-158.4,54.08L155.66-288.72l-245.2-224.64L-403.61-170.57-158.4,54.08Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="HGymrat_store" data-name="HGymrat store" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 953.47 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+        font-size: 144.42px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Imago_V" data-name="Imago V">
+    <g id="Logo">
+      <g id="A_y_Centro" data-name="A y Centro">
+        <path d="M251.4,186.8l-119.94,42.04-42.29-80.63L16.97,295.48l234.43-108.67ZM89.41,187.67l21.45,42.55-46.69,19.51,25.24-62.07Z"/>
+      </g>
+      <polygon id="Pie" points="128.89 270.82 150.01 260.26 160.57 277.69 128.89 277.69 128.89 270.82"/>
+    </g>
+    <text class="cls-5" transform="translate(659.81 285.38)"><tspan class="cls-1" x="0" y="0">S</tspan><tspan class="cls-4" x="55.17" y="0">t</tspan><tspan class="cls-6" x="108.6" y="0">ore</tspan></text>
+    <text class="cls-5" transform="translate(278.12 285.62)"><tspan class="cls-3" x="0" y="0">g</tspan><tspan class="cls-6" x="55.75" y="0">ymr</tspan><tspan class="cls-2" x="252.88" y="0">a</tspan><tspan class="cls-1" x="305.59" y="0">t</tspan></text>
+  </g>
+</svg>

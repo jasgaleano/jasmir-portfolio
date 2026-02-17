@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_6);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_4-2);
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_4);
+      }
+
+      .cls-6 {
+        fill: url(#Degradado_sin_nombre_9);
+      }
+
+      .cls-7 {
+        fill: url(#Degradado_sin_nombre_7);
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_10);
+      }
+
+      .cls-9 {
+        fill: url(#Degradado_sin_nombre_8-2);
+      }
+
+      .cls-10 {
+        fill: url(#Degradado_sin_nombre_8);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-12 {
+        fill: url(#Degradado_sin_nombre_11);
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-4" d="M448.38,220.85c0,104.55-84.88,189.43-189.43,189.43s-189.43-84.88-189.43-189.43S154.4,31.42,258.95,31.42s189.43,84.88,189.43,189.43Z"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_11" data-name="Degradado sin nombre 11" x1="1829.46" y1="5184.61" x2="1830.21" y2="5184.61" gradientTransform="translate(-2026620.86 1139408.97) rotate(41.22) scale(422.89 -422.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#01bb99"/>
+      <stop offset="1" stop-color="#206ed4"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_10" data-name="Degradado sin nombre 10" x1="1855.02" y1="5181.09" x2="1855.78" y2="5181.09" gradientTransform="translate(1669091.57 80943.63) rotate(-106.93) scale(303.55 -303.55)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".4"/>
+      <stop offset=".53" stop-color="#094fcf" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="1822.77" y1="5133.65" x2="1823.52" y2="5133.65" gradientTransform="translate(-205314.4 -485945.43) rotate(137.54) scale(96.9 -96.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".1"/>
+      <stop offset=".53" stop-color="#094fcf" stop-opacity=".03"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_4-2" data-name="Degradado sin nombre 4" x1="1821.12" y1="5132.84" x2="1821.88" y2="5132.84" gradientTransform="translate(-214013.22 -466135.15) rotate(135.79) scale(94.23 -94.23)" xlink:href="#Degradado_sin_nombre_4"/>
+    <linearGradient id="Degradado_sin_nombre_7" data-name="Degradado sin nombre 7" x1="1819.49" y1="5171.81" x2="1820.25" y2="5171.81" gradientTransform="translate(-1161432.38 -387009.27) rotate(89.06) scale(223.36 -223.36)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5994fe" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#5994fe" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_6" data-name="Degradado sin nombre 6" x1="1794.47" y1="5200.29" x2="1795.23" y2="5200.29" gradientTransform="translate(-464963.23 255087.26) rotate(42.26) scale(96.43 -96.43)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_8" data-name="Degradado sin nombre 8" x1="1901.89" y1="5152.82" x2="1902.65" y2="5152.82" gradientTransform="translate(343662.15 -163881.42) rotate(-135.79) scale(69.3 -69.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".05"/>
+      <stop offset=".53" stop-color="#094fcf" stop-opacity="0"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_8-2" data-name="Degradado sin nombre 8" x1="1905.29" y1="5154.76" x2="1906.04" y2="5154.76" gradientTransform="translate(339777.77 -145017.84) rotate(-133.44) scale(67.2 -67.2)" xlink:href="#Degradado_sin_nombre_8"/>
+    <linearGradient id="Degradado_sin_nombre_9" data-name="Degradado sin nombre 9" x1="1844.11" y1="5168.9" x2="1844.87" y2="5168.9" gradientTransform="translate(759865.67 -2103126.59) rotate(-179.78) scale(407.49 -407.49)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Meta">
+    <g id="Ads_Manager" data-name="Ads Manager">
+      <g>
+        <rect class="cls-2" x="175.59" y="169.2" width="154.71" height="103.31"/>
+        <g class="cls-11">
+          <g>
+            <path class="cls-12" d="M258.95,31.42c104.55,0,189.43,84.88,189.43,189.43s-84.88,189.43-189.43,189.43-189.43-84.88-189.43-189.43S154.4,31.42,258.95,31.42ZM258.95,180.48l-56.01,61.89h112.02l-56.01-61.89h0Z"/>
+            <path class="cls-8" d="M457.88-214.58l310.4,346.11-247.58,222.03L210.3,7.44l247.58-222.02h0Z"/>
+            <path class="cls-5" d="M147.46,673.89L-162.93,327.78,84.64,105.75l310.39,346.11-247.58,222.03h0Z"/>
+            <path class="cls-3" d="M203.13,616.94L-107.27,270.83,140.31,48.8l310.4,346.12-247.58,222.02h0Z"/>
+            <path class="cls-7" d="M15.82,382.67h464.91v332.56H15.82v-332.56Z"/>
+            <path class="cls-1" d="M419.5,708.97l314.05-342.8-245.2-224.64L174.29,484.32l245.21,224.65Z"/>
+            <path class="cls-10" d="M96.86-249.98L-217.2,92.83,28.01,317.47,342.06-25.33,96.86-249.98h0Z"/>
+            <path class="cls-9" d="M152.49-194.34L-161.57,148.46l245.21,224.65L397.69,30.3l-245.2-224.64h0Z"/>
+            <path class="cls-6" d="M64.17,242.39h392.65v73.77H64.17v-73.77Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

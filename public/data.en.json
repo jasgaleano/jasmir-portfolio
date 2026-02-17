@@ -1,0 +1,1228 @@
+{
+    "perfil": {
+        "nombre": "Jasmir Galeano",
+        "rol": "Brand & Growth Architect",
+        "disponibilidad": "Available for projects",
+        "foto_desktop": "assets/img/perfil-desktop.webp",
+        "foto_movil": "assets/img/perfil-hero.webp"
+    },
+    "hero": {
+        "titulo_principal": "Strategy + Design for companies looking to scale without competing on price.",
+        "titulo_secundario": "",
+        "descripcion": "I build the visual and strategic architecture that turns ordinary businesses into market authorities. I don’t design to impress. I design to position and convert."
+    },
+    "servicios": [
+        {
+            "titulo": "Brand & Growth Roadmap",
+            "descripcion": "Strategic audit to uncover revenue leaks and hidden growth opportunities.",
+            "puntos": [
+                "Identity Audit: Does your brand project authority or confusion?",
+                "Offer Analysis: Does your positioning justify your pricing?",
+                "Action Plan: Clear roadmap to scale with structure."
+            ]
+        },
+        {
+            "titulo": "Corporate Growth System",
+            "descripcion": "Complete positioning, identity and conversion system. Your infrastructure to sell high-ticket offers.",
+            "puntos": [
+                "Premium Visual Identity aligned with perceived value.",
+                "Conversion-focused strategic website.",
+                "Sales ecosystem ready to execute."
+            ]
+        },
+        {
+            "titulo": "Creative Growth Partner",
+            "descripcion": "Your external Creative & Strategy Director. Visual production + traffic + performance management.",
+            "puntos": [
+                "Monthly strategic direction.",
+                "High-end visual assets focused on conversion.",
+                "Ads & Performance Management: continuous ROAS optimization."
+            ]
+        }
+    ],
+    "proyectos": [
+        {
+            "id": "p4",
+            "titulo": "Gymrat Store — E-commerce Brand Building",
+            "cliente": "Gymrat Store",
+            "rol_personal": "Founder & CEO",
+            "cliente_logo": "",
+            "anio": "2025",
+            "categoria": "FOUNDER & CEO · E-commerce",
+            "tags": [
+                "Business Strategy",
+                "Full-Stack Branding",
+                "E-commerce Development"
+            ],
+            "servicios_lista": [
+                "Business & Logistics Strategy",
+                "Full Brand Identity",
+                "E-commerce Website Development",
+                "Creative Direction & Content",
+                "Ads & ROAS Management"
+            ],
+            "herramientas": [
+                "Illustrator",
+                "Photoshop",
+                "Lightroom",
+                "InDesign",
+                "Figma",
+                "WordPress",
+                "Elementor",
+                "CapCut",
+                "Meta",
+                "Ads Manager",
+                "Airtable",
+                "N8N",
+                "Chat GPT",
+                "Gemini",
+                "Claude"
+            ],
+            "equipamiento": [
+                "Canon Sl2",
+                "Lente 18mm-45mm f/4-5.6",
+                "Lente 50mm f/1.8",
+                "Micrófonos Hollyland Lark M2"
+            ],
+            "descripcion_corta": "From zero to National TV. Total construction of an e-commerce brand.",
+            "tipo": "imagen",
+            "cover": "assets/img/proyectos/Gymrat Store/brandboard/Pagina 1 Gymrat.webp",
+            "video_preview": "",
+            "detalle": {
+                "descripcion_larga": "**The Challenge:** Differentiate a Gymshark/YoungLA resale business in a sea of informality. The goal was not just to \"sell clothes\", but to structure a serious and scalable business, capable of managing inventory and customers professionally from day 1.\n\n**The Solution:** Disciplined execution and bootstrapping. Operating since 2023, as **Founder & Operator**, I manage the entire value chain: from direct import to final delivery. I developed the niche's only E-commerce platform with real-time inventory by size, centralized customer management (CRM) and orders in **Airtable** to not miss a single sale, and constantly reinvested capital.\n\n**The Result:** Organic and sustained growth. I managed to scale inventory from **$0 to +$5,000 USD** (active) without external investment. Today, Gymrat Store is a brand with a solid visual identity, a loyal customer base, and a validated operational structure ready for the next step: its first physical branch.",
+                "video_url": "",
+                "galeria": [],
+                "media_showcase": [
+                    {
+                        "tipo": "section_label",
+                        "label": "Brand Architecture"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/brandboard/Pagina 1 Gymrat.webp",
+                        "caption": "Brand Identity — Logo, variants, and visual system"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/brandboard/Pagina 2 Gymrat.webp",
+                        "caption": "Color palette, typography, and graphic elements"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/brandboard/Pagina 3 Gymrat.webp",
+                        "caption": "Brand applications and POP material"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "National TV"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Yo en tv nacional/Horanick.webp",
+                        "caption": "Appearance on National TV"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Yo en tv nacional/mañaneros.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Publications"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/Black Friday M.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/Black Friday W.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/San Valentin.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/Reseñas 1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/Reseñas 2.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/Fraction Oversized T-shirt.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/Mesa de trabajo 1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/Set Everyday Seamless.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/Youngla Publi.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/guia de tallas 1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Publicaciones/guia de tallas 2..webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Events"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_2158.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_2162.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_2164.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_2165.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_2166.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_2169.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_3631.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_3634-3.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_4571.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_4573.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_4577.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_4620.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_5916.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_7590.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/eventos/IMG_7592 - copia.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Photo Models"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/1. Sol.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/1.2 Sol 10.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/1.3 Sol.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/1.4 Sol.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/2. Saitama 1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/2.2 Saitama 3.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/2.3. Saitama 2.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/3. Edith 1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/4. Desiree 2.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/5. Memo 1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/5.2 Memo 2.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/7. Gabriel 1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/8. Jose 4.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Foto-modelos/8. Jose 5.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Man Catalog"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/2.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/3.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/4.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/5.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/6.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/7.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/8.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/9.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/10.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/11.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/12.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/13.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/14.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/15.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/16.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/17.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/18.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/19.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Man V2  Gymrat Store/20.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Woman Catalog"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/1.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/2.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/3.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/4.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/5.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/6.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/7.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/8.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/9.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/10.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/11.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/12.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/13.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/14.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/15.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/16.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/17.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/18.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Gymrat Store/img/Catalogo Woman V2  Gymrat Store/19.webp",
+                        "caption": ""
+                    },
+                    {
+                        "tipo": "video",
+                        "url": "https://youtube.com/shorts/uMXDqQLAVhs",
+                        "caption": "Campaña Navidad — Marketing Emocional"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "p3",
+            "titulo": "MyPetMatch — SaaS Product Design",
+            "cliente": "MyPetMatch Startup",
+            "rol_personal": "Co-Founder & Product Designer",
+            "cliente_logo": "",
+            "anio": "2024",
+            "categoria": "CO-FOUNDER · SaaS Product Design",
+            "tags": [
+                "Product Strategy",
+                "UI/UX Design",
+                "Go-to-Market"
+            ],
+            "servicios_lista": [
+                "Product Strategy",
+                "Visual Identity Design",
+                "UI/UX Design (Figma)",
+                "Investor Pitch Deck"
+            ],
+            "herramientas": [
+                "Illustrator",
+                "Photoshop",
+                "Figma"
+            ],
+            "equipamiento": [],
+            "descripcion_corta": "Animal adoption SaaS. Hackathon Finalist (Top 20/200+) validating a B2B model for shelters.",
+            "tipo": "imagen",
+            "cover": "assets/img/proyectos/Mypetmatch/brandboard/Pagina 1 Mypetmatch.webp",
+            "video_preview": "",
+            "detalle": {
+                "descripcion_larga": "**The Challenge:** Adoption in Nicaragua suffered from a 'broken bridge': saturated shelters managing processes on paper and adopters lost in the chaos of social media. The team's challenge was to build, under Hackathon pressure, an integral solution that repaired this disconnection.\n\n**The Solution:** We developed a dual ecosystem. While the engineering team built a robust SaaS for shelter management, **I led Product Design and Go-to-Market Strategy**, creating an empathetic interface and a business pitch that validated our proposal before the judges.\n\n**The Result:** The project was selected as a finalist among +200 competitors. We managed to present a functional MVP that not only facilitates adoptions, but professionalizes the work of shelters, demonstrating that technology can have a real and scalable social impact.",
+                "video_url": "",
+                "galeria": [],
+                "media_showcase": [
+                    {
+                        "tipo": "section_label",
+                        "label": "Brand Architecture"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/brandboard/Pagina 1 Mypetmatch.webp",
+                        "caption": "Visual Identity — Logo, palette, and iconography system"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/brandboard/Pagina 2 Mypetmatch.webp",
+                        "caption": "Brand Manual — Typography, usage, and restrictions"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Website"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/img/Sitio web/1.Home.webp",
+                        "caption": "Home — Main Landing"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/img/Sitio web/2.Nosotros.webp",
+                        "caption": "About Us — History and mission"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/img/Sitio web/3.como funciona.webp",
+                        "caption": "How it works — User flow"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/img/Sitio web/4.organizaciones.webp",
+                        "caption": "Organizations — Strategic allies"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/img/Sitio web/5.Inicio de sesion.webp",
+                        "caption": "Login — Authentication UX"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/img/Sitio web/6.registrarse.webp",
+                        "caption": "Sign Up — Onboarding flow"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "p5",
+            "titulo": "Keller Williams — Luxury Real Estate",
+            "cliente": "KW Franchise",
+            "rol_personal": "Brand Consultant",
+            "cliente_logo": "",
+            "anio": "2025",
+            "categoria": "Real Estate Branding",
+            "tags": [
+                "Corporate Identity",
+                "Print Design",
+                "Digital Presence"
+            ],
+            "servicios_lista": [
+                "Corporate Identity Adaptation",
+                "Sales Material Design",
+                "Real Estate Photography & Art Direction"
+            ],
+            "herramientas": [
+                "Photoshop",
+                "Lightroom",
+                "CapCut"
+            ],
+            "equipamiento": [
+                "Canon Sl2",
+                "Lente 18mm-45mm f/4-5.6",
+                "Lente 50mm f/1.8",
+                "Micrófonos Hollyland Lark M2"
+            ],
+            "descripcion_corta": "Strategic visual production for high-profile Real Estate.",
+            "tipo": "imagen",
+            "cover": "assets/img/proyectos/Keller williams/brandboard/Pagina 1 Keller Williams.webp",
+            "video_preview": "",
+            "detalle": {
+                "descripcion_larga": "**The Challenge:** In the real estate sector, image is everything. Eng. Giovanni Urbina, a KW agent, had a portfolio of high-value properties, but his visual presentation (cell phone photos) did not reflect the quality of the property nor the professionalism of his service, stalling deal closures.\n\n**The Solution:** Execution of a superior visual standard. I performed professional photography and art direction for each property, replacing improvisation with an editorial aesthetic that highlights the best angles and the real added value of each space.\n\n**The Result:** Immediate transformation of inventory perception. The new visual tools allowed the agent to differentiate himself within the franchise, generating greater trust in prospects and accelerating the sales process.",
+                "video_url": "",
+                "galeria": [],
+                "media_showcase": [
+                    {
+                        "tipo": "section_label",
+                        "label": "Brand Architecture"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/brandboard/Pagina 1 Keller Williams.webp",
+                        "caption": "KW Nicaragua Corporate Identity Manual"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Real Estate Photography"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5930-Enhanced-NR.webp",
+                        "caption": "Interior staging for luxury property"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5932-Enhanced-NR.webp",
+                        "caption": "Wide-angle architectural shot"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5940-Enhanced-NR.webp",
+                        "caption": "Detail shot emphasizing high-end finishes"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5944-Enhanced-NR.webp",
+                        "caption": "Living area composition"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5972-Enhanced-NR.webp",
+                        "caption": "Master bedroom with natural lighting"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5975-Enhanced-NR.webp",
+                        "caption": "En-suite bathroom features"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5977-Enhanced-NR.webp",
+                        "caption": "Kitchen amenities showcase"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5980-Enhanced-NR.webp",
+                        "caption": "Dining area with view"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5993-Enhanced-NR.webp",
+                        "caption": "Exterior facade daylight"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_5998-Enhanced-NR.webp",
+                        "caption": "Pool and social area"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_6033-Enhanced-NR-1.webp",
+                        "caption": "Garden and landscaping"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_6175-Enhanced-NR.webp",
+                        "caption": "Additional exterior perspective"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_6190-Enhanced-NR.webp",
+                        "caption": "Entrance and foyer"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Keller williams/img/Fotografia inmobiliaria/IMG_6207-Enhanced-NR.webp",
+                        "caption": "Balcony view"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "p1",
+            "titulo": "FEELP — Strategic Rebranding",
+            "cliente": "FEELP Hardware",
+            "rol_personal": "Brand Strategist",
+            "cliente_logo": "",
+            "anio": "2024",
+            "categoria": "Corporate Branding",
+            "tags": [
+                "Rebranding",
+                "Visual Identity",
+                "Signage"
+            ],
+            "servicios_lista": [
+                "Brand Audit",
+                "Identity Redesign",
+                "Exterior Signage Design",
+                "Corporate Stationery"
+            ],
+            "herramientas": [
+                "Illustrator",
+                "Photoshop",
+                "Lightroom",
+                "InDesign",
+                "Canon Eos Utility",
+                "Chat GPT",
+                "Gemini"
+            ],
+            "equipamiento": [
+                "Canon Sl2",
+                "Lente 18mm-45mm f/4-5.6",
+                "Lente 50mm f/1.8"
+            ],
+            "descripcion_corta": "Visual and operational professionalization for a brand with a +20 year track record.",
+            "tipo": "imagen",
+            "cover": "assets/img/proyectos/Feelp/brandboard/Pagina 1@300x.webp",
+            "video_preview": "",
+            "detalle": {
+                "descripcion_larga": "**The Challenge:** A solid hardware business with two decades of experience operating with an improvised image (logo in Word) that did not represent its real capacity. The lack of a visual system generated operational friction and made it difficult to apply the brand on new signage or uniforms.\n\n**The Solution:** Development of a Functional Visual Identity. I converted their precarious assets into a professional vector system, designed high-impact facade signage, and optimized their price lists to streamline customer service and product recommendations.\n\n**The Result:** A brand operational and ready for the future. Visual debt was eliminated, delivering to the company all the tools (vectors, palette, typography) to project trust and coherence in any physical or digital application.",
+                "video_url": "",
+                "galeria": [],
+                "media_showcase": [
+                    {
+                        "tipo": "section_label",
+                        "label": "Brand Architecture"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/brandboard/Pagina 1@300x.webp",
+                        "caption": "Visual Identity System — Logo, palette, and typography"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/brandboard/Pagina 2@300x.webp",
+                        "caption": "Brand Manual — Usage, signage, and stationery"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Store Implementation"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images/IMG_3342.webp",
+                        "caption": "Main facade signage"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images/IMG_4719.webp",
+                        "caption": "Store interior branding"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images/IMG_4760.webp",
+                        "caption": "Wayfinding system"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images/IMG_4796.webp",
+                        "caption": "Point of sale branding"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images/IMG_6128.webp",
+                        "caption": "Employee uniforms"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images/IMG_6129.webp",
+                        "caption": "Vehicle fleet branding"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Editorial Catalog"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo.webp",
+                        "caption": "Product catalog cover"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo2.webp",
+                        "caption": "Tech specs layout"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo3.webp",
+                        "caption": "Product category spread"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo4.webp",
+                        "caption": "Industrial tools section"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo5.webp",
+                        "caption": "Service overview page"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo6.webp",
+                        "caption": "Price list integration"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo7.webp",
+                        "caption": "Brand values page"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo8.webp",
+                        "caption": "Contact and location info"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Feelp/img/images catalogo/Catalogo modelo - completo9.webp",
+                        "caption": "Back cover design"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "p2",
+            "titulo": "Fitness One — Organic Growth Strategy",
+            "cliente": "Gustavo Lacayo",
+            "rol_personal": "Creative Strategist",
+            "cliente_logo": "",
+            "anio": "2024",
+            "categoria": "Social Growth",
+            "tags": [
+                "Content Strategy",
+                "Video Production",
+                "Community Growth"
+            ],
+            "servicios_lista": [
+                "Content Strategy",
+                "AV Production (Photo/Video)",
+                "Community Management",
+                "Event Coverage"
+            ],
+            "herramientas": [
+                "Illustrator",
+                "Photoshop",
+                "Lightroom",
+                "CapCut",
+                "Canon Eos Utility",
+                "Chat GPT"
+            ],
+            "equipamiento": [
+                "Canon Sl2",
+                "Lente 18mm-45mm f/4-5.6",
+                "Lente 50mm f/1.8"
+            ],
+            "descripcion_corta": "Local Market Leadership: From 0 to 1,400+ digital members and massive organic reach.",
+            "tipo": "imagen",
+            "cover": "assets/img/proyectos/Fitness One/brandboard/Pagina 1 Fitness One.webp",
+            "video_preview": "",
+            "detalle": {
+                "descripcion_larga": "**The Challenge:** A gym with top-tier infrastructure that was digitally invisible. They needed to attract qualified members and communicate their premium value proposition without relying solely on referrals or paid advertising.\n\n**The Solution:** Implementation of a high-impact digital identity and a community management (CM) system. I developed a constant visual content strategy and automated the response flow (DM Automation), ensuring that every interested party received immediate and complete information.\n\n**The Result:** Construction of a loyal audience of +1,420 followers from scratch. We achieved peaks of local virality (+74k reach in events) and a constant flow of profile visits (2k-5k), converting organic traffic into real memberships thanks to systematized attention.",
+                "video_url": "",
+                "galeria": [],
+                "media_showcase": [
+                    {
+                        "tipo": "section_label",
+                        "label": "Brand Architecture"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/brandboard/Pagina 1 Fitness One.webp",
+                        "caption": "Digital Identity and Social Media Management"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/brandboard/Pagina 2 Fitness One.webp",
+                        "caption": "Audiovisual Production and Event Coverage"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Event Photography"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7112-Enhanced-NR.webp",
+                        "caption": "Community challenges coverage"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7149-Enhanced-NR.webp",
+                        "caption": "Member engagement shots"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7176.webp",
+                        "caption": "Award ceremonies"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7191.webp",
+                        "caption": "Group workout energy"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7193.webp",
+                        "caption": "Candid member moments"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7222.webp",
+                        "caption": "Competition highlights"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7224.webp",
+                        "caption": "Action shots"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7237.webp",
+                        "caption": "Community building"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7247.webp",
+                        "caption": "Event atmosphere"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7249.webp",
+                        "caption": "Winner announcements"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7252.webp",
+                        "caption": "Team spirit"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Eventos/IMG_7254.webp",
+                        "caption": "Celebration moments"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Gym Photography"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Gym/23.webp",
+                        "caption": "Equipment showcase"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Gym/25.webp",
+                        "caption": "Training zones"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Gym/26.webp",
+                        "caption": "Interior design details"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Gym/27.webp",
+                        "caption": "Free weights area"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Gym/28.webp",
+                        "caption": "Cardio section"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Gym/29.webp",
+                        "caption": "Strength training machines"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Gym/30.webp",
+                        "caption": "Overall facility view"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Fitness One/img/Fotografia Gym/IMG_5369-Enhanced-NR.webp",
+                        "caption": "Professional lighting setup"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Audiovisual Production"
+                    },
+                    {
+                        "tipo": "video",
+                        "url": "https://youtube.com/shorts/SL2Hkn5rzJo",
+                        "caption": "High-intensity workout reel"
+                    },
+                    {
+                        "tipo": "video",
+                        "url": "https://youtube.com/shorts/W_vHfb-Sk2k",
+                        "caption": "Transformation story"
+                    },
+                    {
+                        "tipo": "video",
+                        "url": "https://youtube.com/shorts/V2Y2m-uc8do",
+                        "caption": "Gym tour"
+                    },
+                    {
+                        "tipo": "video",
+                        "url": "https://youtube.com/shorts/mK08-oGFJGg",
+                        "caption": "Trainer spotlight"
+                    },
+                    {
+                        "tipo": "video",
+                        "url": "https://youtube.com/shorts/iXVIR1KSFLI",
+                        "caption": "Motivation clip"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "p6",
+            "titulo": "Energy — Rebranding & Art Direction",
+            "cliente": "Energy Nic",
+            "rol_personal": "Brand Strategist & Art Director",
+            "cliente_logo": "",
+            "anio": "2025",
+            "categoria": "Rebranding & Photography",
+            "tags": [
+                "Rebranding",
+                "Art Direction",
+                "Product Photography"
+            ],
+            "servicios_lista": [
+                "Color Palette Definition",
+                "Typography Selection",
+                "Visual System Design",
+                "Art Direction & Photo Session"
+            ],
+            "herramientas": [
+                "Illustrator",
+                "Photoshop",
+                "Lightroom",
+                "Canon Eos Utility"
+            ],
+            "equipamiento": [
+                "Canon Sl2",
+                "Lente 18mm-45mm f/4-5.6",
+                "Lente 50mm f/1.8"
+            ],
+            "descripcion_corta": "From homemade product to boutique brand: Asset professionalization.",
+            "tipo": "imagen",
+            "cover": "assets/img/proyectos/Energy/brandboard/Pagina 1 - Energy@300x.webp",
+            "video_preview": "",
+            "detalle": {
+                "descripcion_larga": "**The Challenge:** Social media competition requires more than just a good product. Energy had artisanal quality, but its visual presentation didn't reflect the true value of its pieces, limiting its ability to justify competitive pricing to an audience that buys with their eyes.\n\n**The Solution:** Total professionalization of the graphic line. Developed the brand's visual universe (colors, fonts, logo variants) and executed commercial photography designed specifically to capture attention in the feed and close sales via WhatsApp.\n\n**Result:** Immediate elevation of perceived value. The new graphic and photographic line allowed the brand to differentiate itself from informal competition, validating a price adjustment and strengthening its presence in the local digital market.",
+                "video_url": "",
+                "galeria": [],
+                "media_showcase": [
+                    {
+                        "tipo": "section_label",
+                        "label": "Brand Architecture"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Energy/brandboard/Pagina 1 - Energy@300x.webp",
+                        "caption": "Visual identity system — Palette, typography, and logo"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Energy/brandboard/Pagina 2 - Energy@300x.webp",
+                        "caption": "Logo variations and background applications"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Product Photography"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Energy/img/Fotografia/Energy Foto 1.webp",
+                        "caption": "Stylized product shot"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Energy/img/Fotografia/Energy foto 2.webp",
+                        "caption": "Detail and texture focus"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Energy/img/Fotografia/energy foto 3 v2.webp",
+                        "caption": "Lifestyle composition"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Energy/img/Fotografia/energy foto 4.webp",
+                        "caption": "Collection showcase"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Energy/img/Fotografia/energy foto 5.webp",
+                        "caption": "Mood and ambiance"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "p7",
+            "titulo": "Prime Tech — Corporate Visual Identity",
+            "cliente": "Prime Tech Nicaragua",
+            "rol_personal": "Brand Designer",
+            "cliente_logo": "",
+            "anio": "2025",
+            "categoria": "Corporate Identity",
+            "tags": [
+                "Brand Identity",
+                "Visual System",
+                "Logo Refinement"
+            ],
+            "servicios_lista": [
+                "Existing Logo Refinement",
+                "Color Palette Definition",
+                "Typography Selection",
+                "Basic Identity Manual"
+            ],
+            "herramientas": [
+                "Illustrator"
+            ],
+            "equipamiento": [],
+            "descripcion_corta": "Technical visual identity: From emerging e-commerce to future physical store.",
+            "tipo": "imagen",
+            "cover": "assets/img/proyectos/Prime tech/brandboard/Pagina 1 prime tech@300x.webp",
+            "video_preview": "",
+            "detalle": {
+                "descripcion_larga": "**The Challenge:** Prime Tech, a technology business with high-value products (appliances, laptops), operated with an AI-generated image that limited its professional perception. The owner, with a clear vision of expanding into a physical branch, needed a graphic identity that worked today on digital screens but was ready for real applications like signage and embroidered uniforms.\n\n**The Solution:** Development of a versatile, vector visual identity system. I designed a technical and clean graphic brand, optimized not only for WhatsApp avatars, but built with the standards required for its future application on facades and corporate clothing.\n\n**The Result:** A brand armored for growth. The new identity immediately legitimized its current digital operation and gave the owner the professional assets needed to materialize his vision of opening the first physical store with a solid image from day one.",
+                "video_url": "",
+                "galeria": [],
+                "media_showcase": [
+                    {
+                        "tipo": "section_label",
+                        "label": "Brand Architecture"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Prime tech/brandboard/Pagina 1 prime tech@300x.webp",
+                        "caption": "Identity manual — Refined logo, palette, and typography"
+                    }
+                ]
+            }
+        }
+    ]
+}

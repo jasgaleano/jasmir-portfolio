@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_clientes" data-name="Logos clientes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210.13 230.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Poppins-Bold, Poppins;
+        font-size: 102.49px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Logo_Jasmir_Galeano" data-name="Logo Jasmir Galeano">
+    <g>
+      <rect x="19.18" y="28.23" width="180.1" height="180.1" rx="31.78" ry="31.78"/>
+      <text class="cls-1" transform="translate(39.84 156.3)"><tspan x="0" y="0">JG</tspan></text>
+    </g>
+  </g>
+</svg>

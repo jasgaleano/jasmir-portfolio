@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #30a6fc;
+      }
+
+      .cls-3 {
+        fill: #001e36;
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_10);
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_8);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-1" d="M650.38,858.38c0,104.55-84.88,189.43-189.43,189.43s-189.43-84.88-189.43-189.43,84.88-189.43,189.43-189.43,189.43,84.88,189.43,189.43Z"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_10" data-name="Degradado sin nombre 10" x1="2057.02" y1="5818.62" x2="2057.78" y2="5818.62" gradientTransform="translate(1872286.47 83889.06) rotate(-106.93) scale(303.55 -303.55)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".4"/>
+      <stop offset=".53" stop-color="#094fcf" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_8" data-name="Degradado sin nombre 8" x1="2103.89" y1="5790.35" x2="2104.64" y2="5790.35" gradientTransform="translate(384706.18 -185148.35) rotate(-135.79) scale(69.3 -69.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".05"/>
+      <stop offset=".53" stop-color="#094fcf" stop-opacity="0"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Meta">
+    <g id="Ads_Manager" data-name="Ads Manager">
+      <g class="cls-6">
+        <g>
+          <path class="cls-4" d="M659.87,422.95l310.4,346.11-247.58,222.03-310.4-346.12,247.58-222.02h0Z"/>
+          <path class="cls-5" d="M298.85,387.55L-15.2,730.35l245.2,224.64,314.05-342.8-245.2-224.65h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Diseño_Grafico" data-name="Diseño Grafico">
+    <g id="Photoshop">
+      <g>
+        <rect class="cls-3" x="54.96" y="16.86" width="407.98" height="407.98" rx="66.71" ry="66.71"/>
+        <g>
+          <path class="cls-2" d="M379.01,313.27c-28.04,8.88-57.15,5.94-83.67-2.43-3.68-15.57-3.38-30.15-.88-47.51,21.9,9.5,39.82,20.63,63.67,12.4,2.15-23.18-64.09-10.92-65.24-62.03-.52-23.41,13.53-44.59,40.01-48.78,20.57-3.25,45.53-5.39,63.88,5.78,6.7,10.28,3.81,31.82.47,41.88-19.83-5.64-34.23-12.83-52.33-6.56-2.74,20.28,61.47,10.99,64.77,56.57,1.57,21.73-5.99,42.85-30.69,50.67Z"/>
+          <g>
+            <path class="cls-2" d="M172.88,263.29l-1.31,54.64-53.2-.16.05-193.78c56.03,2.4,156.99-17.67,162.47,61.84,2.34,33.98-15.98,63.54-51.44,73.63-17,4.84-33.57,4.41-56.57,3.82ZM213.56,211.38c9.71-5.42,9.95-16.99,8.46-24.32-4.17-20.52-33.28-19.23-49.57-15.3-1.05,16.53-1.34,28.65-.21,44.14,13.82.2,27.98,2.95,41.33-4.51Z"/>
+            <path class="cls-3" d="M213.56,211.38c-13.34,7.46-27.51,4.71-41.33,4.51-1.13-15.49-.83-27.61.21-44.14,16.29-3.92,45.4-5.22,49.57,15.3,1.49,7.34,1.24,18.9-8.46,24.32Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

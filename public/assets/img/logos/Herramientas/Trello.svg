@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_26);
+        fill-rule: evenodd;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_26" data-name="Degradado sin nombre 26" x1="1836.27" y1="3268.19" x2="1836.27" y2="3269.01" gradientTransform="translate(-920746.07 1638574.2) scale(501.56 -501.24)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0052cc"/>
+      <stop offset="1" stop-color="#2684ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Trabajo_Colaborativo" data-name="Trabajo Colaborativo">
+    <g id="Trello">
+      <g>
+        <path class="cls-2" d="M415.72,15.4H102.25c-26.97,0-48.84,21.84-48.88,48.81v313.01c-.11,26.99,21.68,48.96,48.68,49.07.07,0,.13,0,.2,0h313.47c26.99-.04,48.85-21.95,48.81-48.94,0-.04,0-.09,0-.13V64.21c-.04-26.94-21.87-48.77-48.81-48.81ZM230.69,311.35c-.04,9.02-7.38,16.31-16.4,16.27-.02,0-.04,0-.07,0h-68.5c-8.96-.04-16.2-7.31-16.2-16.27V107.49c0-8.96,7.24-16.23,16.2-16.27h68.5c8.97.04,16.23,7.3,16.27,16.27l.2,203.87ZM388.78,217.75c0,8.99-7.28,16.27-16.27,16.27-.07,0-.13,0-.2,0h-68.5c-8.97-.04-16.23-7.3-16.27-16.27v-110.27c.04-8.97,7.3-16.23,16.27-16.27h68.5c8.96.04,16.2,7.31,16.2,16.27l.26,110.27Z"/>
+        <rect class="cls-1" x="129.52" y="91.22" width="101.18" height="239.3" rx="18.61" ry="18.61"/>
+        <rect class="cls-1" x="287.57" y="91.22" width="101.18" height="140.8" rx="14.28" ry="14.28"/>
+      </g>
+    </g>
+  </g>
+</svg>

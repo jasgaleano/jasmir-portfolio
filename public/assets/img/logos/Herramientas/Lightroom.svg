@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001e36;
+      }
+
+      .cls-2 {
+        fill: #31a7fe;
+      }
+    </style>
+  </defs>
+  <g id="Diseño_Grafico" data-name="Diseño Grafico">
+    <g id="Lightroom">
+      <g>
+        <rect class="cls-1" x="54.96" y="16.86" width="407.98" height="407.98" rx="66.71" ry="66.71"/>
+        <g>
+          <path class="cls-2" d="M277.45,268.94c1.6,17.01.85,31.53.31,48.75l-145.09-.06-.02-193.56,53.4-.05-.03,145.03,91.43-.09Z"/>
+          <path class="cls-2" d="M341.93,206.66l-.89,110.64-48.56-.05,1.01-142.77c29.57-12.49,58.96-14.68,89.43-9.95,3.26,13.84,2.81,26.24.52,39.97l-41.5,2.15Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

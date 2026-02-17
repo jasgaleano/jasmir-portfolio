@@ -1,0 +1,245 @@
+/* ---------------------------
+   Module: Main Content + Hero + Portrait
+   Original: styles.css lines 305-543
+---------------------------- */
+
+/* Main content */
+.main {
+    padding: 26px 28px;
+    overflow-x: hidden;
+}
+
+.wrap {
+    max-width: var(--container);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 34px;
+    padding-bottom: 60px;
+}
+
+/* Section base */
+section {
+    background: transparent;
+}
+
+.section-head {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 14px;
+}
+
+.kicker {
+    font-size: 12px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+h2 {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: 26px;
+    letter-spacing: -.03em;
+}
+
+.sub {
+    margin: 0;
+    color: var(--muted);
+    line-height: 1.55;
+    max-width: 70ch;
+}
+
+/* Hero */
+.hero {
+    display: grid;
+    grid-template-columns: 1.1fr .9fr;
+    gap: 26px;
+    align-items: center;
+    padding: 26px;
+    border-radius: var(--radius-xl);
+    background: linear-gradient(180deg, rgba(255, 255, 255, .90), rgba(255, 255, 255, .70));
+    border: 1px solid var(--line);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    position: relative;
+}
+
+.hero::after {
+    content: "";
+    position: absolute;
+    inset: -2px;
+    background: radial-gradient(700px 300px at 20% 0%, rgba(11, 31, 58, .08) 0%, rgba(11, 31, 58, 0) 60%),
+        radial-gradient(900px 420px at 90% 20%, rgba(29, 98, 232, .08) 0%, rgba(29, 98, 232, 0) 60%);
+    pointer-events: none;
+}
+
+.hero-left {
+    position: relative;
+    z-index: 1;
+}
+
+/* --- CONTROL DEL TÍTULO PRINCIPAL (PARA EVITAR CORTE DE LA 'G') --- */
+.hero-title {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: 44px;
+    font-weight: 800;
+    letter-spacing: -.05em;
+
+    /* IMPORTANTE: */
+    /* Si se sigue cortando la 'g', aumenta este número (ej: 1.35 o 1.4) */
+    line-height: 1.30;
+
+    /* Agrega espacio extra abajo por si acaso */
+    padding-bottom: 8px;
+}
+
+.hero-title span {
+    display: inline-block;
+    background: linear-gradient(90deg, var(--text), #333);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.hero-p {
+    margin: 12px 0 0;
+    color: var(--muted);
+    line-height: 1.65;
+    font-size: 15px;
+    max-width: 62ch;
+}
+
+.hero-actions {
+    display: flex;
+    gap: 12px;
+    margin-top: 18px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.btn-light {
+    background: var(--text);
+    color: #fff;
+    border-color: transparent;
+    box-shadow: 0 16px 40px rgba(17, 17, 17, .14);
+}
+
+.btn-light:hover {
+    transform: translateY(-1px);
+}
+
+.btn-outline {
+    background: transparent;
+    border-color: var(--line);
+    color: var(--text);
+}
+
+.btn-outline:hover {
+    background: rgba(17, 17, 17, .04);
+    transform: translateY(-1px);
+}
+
+.microproof {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 16px;
+    color: var(--muted);
+    font-size: 12.5px;
+}
+
+.dot::before {
+    content: "·";
+    margin: 0 8px 0 2px;
+    color: var(--muted2);
+}
+
+/* Portrait frame */
+.portrait {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    place-items: center;
+    padding: 10px;
+}
+
+.frame {
+    width: 100%;
+    max-width: 360px;
+    aspect-ratio: 4 / 5;
+    background: #fff;
+    border-radius: 28px;
+    /* Un poco más redondeado */
+    border: 8px solid #1a1a1a;
+    /* Borde más sólido */
+    box-shadow: 0 22px 60px rgba(17, 17, 17, .2);
+    transform: rotate(-1deg) translate3d(0, 0, 0);
+    /* Renderizado GPU */
+    overflow: hidden;
+    position: relative;
+    transition: transform .22s ease, box-shadow .22s ease;
+    will-change: transform;
+    /* Aviso al navegador para optimizar */
+    -webkit-backface-visibility: hidden;
+    /* Evita pixelado en rotación */
+    backface-visibility: hidden;
+}
+
+.frame:hover {
+    transform: rotate(-3deg) translateY(-2px) translate3d(0, 0, 0);
+    box-shadow: 0 26px 70px rgba(17, 17, 17, .22);
+}
+
+.portrait-img {
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(600px 300px at 50% 10%, rgba(11, 31, 58, .10), transparent 55%),
+        linear-gradient(180deg, #ffffff 0%, #f2f2f2 100%);
+    display: grid;
+    place-items: center;
+}
+
+.portrait-img .placeholder {
+    width: 74%;
+    height: 74%;
+    border-radius: 16px;
+    border: 1px solid var(--line);
+    background:
+        radial-gradient(circle at 30% 25%, rgba(29, 98, 232, .14), rgba(29, 98, 232, 0) 55%),
+        radial-gradient(circle at 70% 20%, rgba(11, 31, 58, .10), rgba(11, 31, 58, 0) 60%),
+        linear-gradient(180deg, #fff, #f6f6f6);
+    display: grid;
+    place-items: center;
+    color: var(--muted);
+    font-size: 12px;
+    text-align: center;
+    padding: 14px;
+}
+
+.badge {
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+    display: inline-flex;
+    gap: 8px;
+    align-items: center;
+    padding: 10px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: rgba(255, 255, 255, .88);
+    color: var(--text);
+    font-size: 12.5px;
+    box-shadow: var(--shadow-soft);
+}
+
+.badge i {
+    width: 8px;
+    height: 8px;
+    background: #22c55e;
+    border-radius: 999px;
+    box-shadow: 0 0 0 4px rgba(34, 197, 94, .18);
+}

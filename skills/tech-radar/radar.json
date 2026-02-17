@@ -1,0 +1,82 @@
+[
+  {
+    "id": "supabase_mcp",
+    "trigger": {
+      "files": [
+        "package.json"
+      ],
+      "contains": [
+        "postgres",
+        "pg",
+        "sequelize",
+        "typeorm"
+      ]
+    },
+    "suggestion": "📦 **CONEXIÓN MCP:** Detecté uso de base de datos PostgreSQL. Podrías conectar el **MCP de Supabase** para administrar tus tablas directamente desde este chat.",
+    "action": "Instala el servidor MCP de Supabase."
+  },
+  {
+    "id": "github_mcp",
+    "trigger": {
+      "files": [
+        ".git"
+      ],
+      "exists": true
+    },
+    "suggestion": "🐙 **OPTIMIZACIÓN:** Este es un repositorio Git. ¿Sabías que puedes conectar el **MCP de GitHub** para que yo pueda crear Issues y PRs por ti?",
+    "action": "Solicita conectar el MCP de GitHub."
+  },
+  {
+    "id": "images_optimization",
+    "trigger": {
+      "files": [
+        "package.json"
+      ],
+      "contains": [
+        "react",
+        "vue",
+        "vite"
+      ],
+      "missing": [
+        "sharp",
+        "lazysizes"
+      ],
+      "missing_dir": [
+        "skills/media-optimizer"
+      ]
+    },
+    "suggestion": "⚡ **PERFORMANCE:** Tienes un proyecto frontend pero no veo herramientas de optimización de imágenes. La skill **Media Optimizer** sería ideal aquí.",
+    "action": "node skills/_instalador_universal/scripts/install.js --skill media-optimizer"
+  },
+  {
+    "id": "tailwind_css",
+    "trigger": {
+      "files": [
+        "*.css"
+      ],
+      "content": [
+        "@import",
+        "var(--"
+      ],
+      "missing": [
+        "tailwindcss"
+      ]
+    },
+    "suggestion": "🎨 **ESTILO:** Veo mucho CSS manual. Si el proyecto crece, considera **Tailwind CSS** para mantener la consistencia y velocidad.",
+    "action": "Investiga migrar a Tailwind."
+  },
+  {
+    "id": "project_scribe",
+    "trigger": {
+      "files": [
+        "README.md"
+      ],
+      "exists": true,
+      "missing_dir": [
+        "skills/project-scribe"
+      ]
+    },
+    "suggestion": "📝 **DOCS:** Para mantener este README actualizado sin esfuerzo, te recomiendo instalar la skill **Project Scribe**.",
+    "action": "node skills/_instalador_universal/scripts/install.js --skill project-scribe"
+  }
+]

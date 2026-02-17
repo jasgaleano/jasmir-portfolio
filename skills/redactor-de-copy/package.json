@@ -1,0 +1,12 @@
+{
+    "name": "redactor-de-copy",
+    "version": "2.0.0",
+    "description": "Asistente de copywriting contextual",
+    "main": "scripts/index.js",
+    "scripts": {
+        "start": "node scripts/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "@atlz",
+    "license": "ISC"
+}

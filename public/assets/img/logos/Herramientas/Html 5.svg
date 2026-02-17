@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_4);
+      }
+
+      .cls-4 {
+        fill: #e44d26;
+      }
+
+      .cls-5 {
+        fill: #f16529;
+      }
+
+      .cls-6 {
+        fill: #ebebeb;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-2" d="M1026.28-434.04c0,104.55-84.88,189.43-189.43,189.43s-189.43-84.88-189.43-189.43,84.88-189.43,189.43-189.43,189.43,84.88,189.43,189.43Z"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="2400.67" y1="4478.76" x2="2401.42" y2="4478.76" gradientTransform="translate(-120581.81 -477593.43) rotate(137.54) scale(96.9 -96.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".1"/>
+      <stop offset=".53" stop-color="#094fcf" stop-opacity=".03"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Programaci_on" data-name="Programaci[on">
+    <g id="Html_5" data-name="Html 5">
+      <g>
+        <path d="M144.44,22.25h17.84v17.69h16.45v-17.69h17.84v53.53h-17.84v-17.84h-16.29v17.84h-18M220.16,40.09h-15.75v-17.84h49.42v17.84h-15.83v35.69h-17.84M261.67,22.25h18.7l11.48,18.85,11.48-18.85h18.7v53.53h-17.84v-26.53l-12.49,19.24-12.49-19.24v26.53h-17.53M330.87,22.25h17.84v35.84h25.29v17.69h-43.13"/>
+        <path class="cls-4" d="M143.82,387.64l-25.6-287.35h281.46l-25.6,287.2-115.36,31.96"/>
+        <path class="cls-5" d="M258.95,395.01V123.88h115.05l-21.95,245.15"/>
+        <path class="cls-6" d="M170.51,159.02h88.44v35.22h-49.81l3.26,36.07h46.55v35.14h-78.82M181.68,283.14h35.38l2.48,28.16,39.41,10.55v36.77l-72.3-20.17"/>
+        <path class="cls-1" d="M347.08,159.02h-88.28v35.22h85.03M340.64,230.31h-81.85v35.22h43.44l-4.11,45.77-39.33,10.55v36.62l72.15-20.02"/>
+      </g>
+    </g>
+  </g>
+  <g id="Meta">
+    <g id="Ads_Manager" data-name="Ads Manager">
+      <g class="cls-7">
+        <path class="cls-3" d="M725.36,19l-310.39-346.11,247.58-222.03,310.39,346.11L725.36,19h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

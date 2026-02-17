@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #340100;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_10);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: #fb9700;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-2" d="M72.47,858.38c0,104.55-84.88,189.43-189.43,189.43s-189.43-84.88-189.43-189.43,84.88-189.43,189.43-189.43,189.43,84.88,189.43,189.43Z"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_10" data-name="Degradado sin nombre 10" x1="1479.12" y1="5818.62" x2="1479.88" y2="5818.62" gradientTransform="translate(1820627.23 -83933.97) rotate(-106.93) scale(303.55 -303.55)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#094fcf" stop-opacity=".4"/>
+      <stop offset=".53" stop-color="#094fcf" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#094fcf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Meta">
+    <g id="Ads_Manager" data-name="Ads Manager">
+      <g class="cls-4">
+        <path class="cls-3" d="M81.97,422.95l310.4,346.11-247.58,222.03-310.4-346.12,247.58-222.02h0Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="Diseño_Grafico" data-name="Diseño Grafico">
+    <g id="illustrator">
+      <g>
+        <rect class="cls-1" x="54.96" y="16.86" width="407.98" height="407.98" rx="66.71" ry="66.71"/>
+        <g>
+          <rect class="cls-5" x="338" y="175.42" width="50.61" height="145.75"/>
+          <path class="cls-5" d="M361.42,166.21c-14.96-.36-23.85-8.31-24.56-21.37-.78-14.36,8.33-24.31,24.78-24.62,15.63-.3,26.08,7.5,26.94,20.36,1.12,16.62-9.13,26.06-27.17,25.63Z"/>
+          <path class="cls-5" d="M262.57,294.85c-23.66-4.32-46.31-1.41-69.49-1.4l-10.86,27.16c-17.71.78-33.21,1.73-52.99-.52l68.58-185.34c20.64-3.25,38.93-1.51,62.13-1.33l67.18,186.73c-21.21,2-36.83,1.43-54.54.34-5.91-5.47-4.87-17.15-10.02-25.64ZM246.33,244.12c-7.25-22.79-11.36-38.07-19.03-55.46-8.15,20.7-14.45,36.61-17.92,56.53,13.74.8,22.67,2.66,36.96-1.06Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

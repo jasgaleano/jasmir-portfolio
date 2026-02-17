@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos_Kit_De_Herramientas" data-name="Logos Kit De Herramientas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 517.9 441.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_32);
+      }
+
+      .cls-2 {
+        fill: #3ecf8e;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_33);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_33" data-name="Degradado sin nombre 33" x1="-765.22" y1="4544.3" x2="-764.41" y2="4544.3" gradientTransform="translate(-198360.5 847366.35) rotate(22.75) scale(188.81 -188.81)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#249361"/>
+      <stop offset="1" stop-color="#3ecf8e"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_32" data-name="Degradado sin nombre 32" x1="-778.47" y1="4539.45" x2="-777.66" y2="4539.45" gradientTransform="translate(-616482.79 476922.46) rotate(62.02) scale(169.26 -169.26)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Programaci_on" data-name="Programaci[on">
+    <g id="Supabase">
+      <g>
+        <path class="cls-3" d="M291.18,410.48c-10.02,12.62-30.34,5.71-30.59-10.41l-3.53-235.7h158.49c28.7,0,44.71,33.16,26.86,55.63l-151.23,190.47Z"/>
+        <path class="cls-1" d="M291.18,410.48c-10.02,12.62-30.34,5.71-30.59-10.41l-3.53-235.7h158.49c28.7,0,44.71,33.16,26.86,55.63l-151.23,190.47Z"/>
+        <path class="cls-2" d="M226.72,31.22c10.02-12.62,30.34-5.71,30.58,10.41l1.55,235.7H102.35c-28.71,0-44.72-33.16-26.86-55.64L226.72,31.22Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

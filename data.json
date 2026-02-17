@@ -1,0 +1,83 @@
+{
+  "perfil": {
+    "nombre": "Jasmir Galeano",
+    "rol": "Consultor de Estrategia & Diseño",
+    "disponibilidad": "Disponible para proyectos",
+    "foto_desktop": "images/perfil.jpg",
+    "foto_movil": "images/perfil-movil.jpg"
+  },
+  "hero": {
+    "titulo_principal": "Estrategia + diseño",
+    "titulo_secundario": "que convierten visitas en clientes.",
+    "descripcion": "Construyo sistemas de marca y comunicación para empresas que quieren verse y vender como líderes: claridad de oferta, coherencia visual y ejecución con método."
+  },
+  "servicios": [
+    {
+      "titulo": "Estrategia Comercial & de Marca",
+      "descripcion": "Claridad de oferta, posicionamiento y estructura de comunicación.",
+      "puntos": [
+        "Diagnóstico + oportunidades",
+        "Arquitectura de oferta",
+        "Plan de contenido"
+      ]
+    },
+    {
+      "titulo": "Diseño & Sistemas Visuales",
+      "descripcion": "Identidad premium y piezas coherentes para que tu marca se sienta seria.",
+      "puntos": [
+        "Brand system (colores, fuentes)",
+        "Plantillas para redes",
+        "UX básico"
+      ]
+    },
+    {
+      "titulo": "Contenido & Producción",
+      "descripcion": "Producción ejecutable con enfoque comercial.",
+      "puntos": [
+        "Guiones + dirección",
+        "Edición lista para publicar",
+        "Optimización Reels/Ads"
+      ]
+    }
+  ],
+  "proyectos": [
+    {
+      "id": "p1",
+      "titulo": "Reposicionamiento B2B",
+      "cliente": "Empresa A",
+      "categoria": "Estrategia",
+      "tags": [
+        "Estrategia",
+        "Diseño"
+      ],
+      "descripcion_corta": "Narrativa clara + sistema visual consistente.",
+      "tipo": "imagen",
+      "cover": "assets/uploads/covers/proyecto1.jpg",
+      "video_preview": "",
+      "detalle": {
+        "descripcion_larga": "El cliente tenía una oferta confusa. Rediseñamos su identidad y simplificamos su mensaje.",
+        "video_url": "",
+        "galeria": []
+      }
+    },
+    {
+      "id": "p2",
+      "titulo": "Sistema de Contenido",
+      "cliente": "Marca B",
+      "categoria": "Producción",
+      "tags": [
+        "Contenido",
+        "Video"
+      ],
+      "descripcion_corta": "Mensajes y guiones pensados para conversión.",
+      "tipo": "video",
+      "cover": "assets/uploads/covers/proyecto2.jpg",
+      "video_preview": "assets/videos/preview2.mp4",
+      "detalle": {
+        "descripcion_larga": "Creamos 20 piezas de contenido optimizadas para Reels.",
+        "video_url": "https://www.youtube.com/embed/VIDEO_ID",
+        "galeria": []
+      }
+    }
+  ]
+}
