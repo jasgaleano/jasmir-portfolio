@@ -631,6 +631,15 @@
                         "tipo": "imagen",
                         "url": "assets/img/proyectos/Mypetmatch/img/Sitio web/6.registrarse.webp",
                         "caption": "Registro — Flujo de onboarding"
+                    },
+                    {
+                        "tipo": "section_label",
+                        "label": "Gestión de Proyecto"
+                    },
+                    {
+                        "tipo": "imagen",
+                        "url": "assets/img/proyectos/Mypetmatch/img/Trello/trello-hackaton.webp",
+                        "caption": "Organización Ágil (Kanban) durante el Hackathon"
                     }
                 ]
             }
