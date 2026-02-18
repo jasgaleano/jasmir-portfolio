@@ -600,3 +600,31 @@
     opacity: 1;
     transform: translateY(0);
 }
+
+/* Lightbox Navigation - Mobile Only Safe Fix */
+@media (max-width: 860px) {
+    .lightbox-nav {
+        display: flex !important;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 48px;
+        height: 48px;
+        background: rgba(0, 0, 0, 0.6);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        border-radius: 50%;
+        color: #fff;
+        font-size: 24px;
+        z-index: 10020;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .lightbox-prev {
+        left: 12px;
+    }
+
+    .lightbox-next {
+        right: 12px;
+    }
+}
