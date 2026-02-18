@@ -4,6 +4,7 @@ Lightroom
 CapCut
 Canon Eos Utility
 Chat gpt
+Notion
 
 Equipo
 Canon Sl2

@@ -1,3 +1,4 @@
 Illustrator
 Photoshop
 Figma
+Trello
