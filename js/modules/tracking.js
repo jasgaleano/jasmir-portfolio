@@ -22,6 +22,5 @@ export function initPixel(id) {
 export function trackEvent(name, params = {}) {
     if (typeof fbq === 'function') {
         fbq('track', name, params);
-        console.log(`📡 Pixel Track: ${name}`, params);
     }
 }
