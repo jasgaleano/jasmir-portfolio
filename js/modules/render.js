@@ -9,47 +9,49 @@ import { trackEvent } from './tracking.js';
  * @param {object} data - Full portfolio data object
  */
 export function renderApp(data) {
-    renderSEO(data.perfil, data.hero);
-    renderProfile(data.perfil);
-    renderHero(data.hero, data.perfil);
-    renderServices(data.servicios);
-    renderProjects(data.proyectos);
+  renderSEO(data.perfil, data.hero);
+  renderProfile(data.perfil);
+  renderHero(data.hero, data.perfil);
+  renderServices(data.servicios);
+  renderProjects(data.proyectos);
 }
 
 function renderSEO(perfil, hero) {
-    document.title = `${perfil.nombre} — ${perfil.rol}`;
-    const metaDesc = document.querySelector('meta[name="description"]');
-    if (metaDesc) metaDesc.content = hero.descripcion;
+  document.title = `${perfil.nombre} — ${perfil.rol}`;
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) metaDesc.content = hero.descripcion;
 }
 
 function renderProfile(perfil) {
-    document.querySelectorAll('.js-name').forEach(el => el.textContent = perfil.nombre);
-    document.querySelectorAll('.js-role').forEach(el => el.textContent = perfil.rol);
+  document.querySelectorAll('.js-name').forEach(el => el.textContent = perfil.nombre);
+  document.querySelectorAll('.js-role').forEach(el => el.textContent = perfil.rol);
 
-    const avatarHTML = `<img src="${perfil.foto_desktop}" alt="${perfil.nombre}" style="width:100%;height:100%;object-fit:cover">`;
-    document.querySelectorAll('.js-avatar').forEach(el => el.innerHTML = avatarHTML);
+  const avatarHTML = `<img src="${perfil.foto_desktop}" alt="${perfil.nombre}" style="width:100%;height:100%;object-fit:cover">`;
+  document.querySelectorAll('.js-avatar').forEach(el => el.innerHTML = avatarHTML);
+
+
 }
 
 function renderHero(hero, perfil) {
-    const titleEl = document.querySelector('.hero-title');
-    if (titleEl) {
-        titleEl.innerHTML = `<span>${hero.titulo_principal}</span><br>${hero.titulo_secundario}`;
-    }
+  const titleEl = document.querySelector('.hero-title');
+  if (titleEl) {
+    titleEl.innerHTML = `<span>${hero.titulo_principal}</span><br>${hero.titulo_secundario}`;
+  }
 
-    const descEl = document.querySelector('.hero-p');
-    if (descEl) descEl.textContent = hero.descripcion;
+  const descEl = document.querySelector('.hero-p');
+  if (descEl) descEl.textContent = hero.descripcion;
 
-    const frameEl = document.querySelector('.portrait-img');
-    if (frameEl) {
-        frameEl.innerHTML = `<img src="${perfil.foto_movil}" alt="Hero" style="width:100%;height:100%;object-fit:cover;border-radius:16px;">`;
-    }
+  const frameEl = document.querySelector('.portrait-img');
+  if (frameEl) {
+    frameEl.innerHTML = `<img src="${perfil.foto_movil}" alt="Hero" style="width:100%;height:100%;object-fit:cover;border-radius:16px;">`;
+  }
 }
 
 function renderServices(servicios) {
-    const container = document.querySelector('#servicios .grid');
-    if (!container) return;
+  const container = document.querySelector('#servicios .grid');
+  if (!container) return;
 
-    container.innerHTML = servicios.map(s => `
+  container.innerHTML = servicios.map(s => `
     <article class="card-w">
       <h3>${s.titulo}</h3>
       <p>${s.descripcion}</p>
@@ -63,22 +65,22 @@ function renderServices(servicios) {
     </article>
   `).join('');
 
-    // Attach tracking via delegation instead of inline onclick
-    container.addEventListener('click', (e) => {
-        const link = e.target.closest('[data-track-interest]');
-        if (link) {
-            trackEvent('Lead', { interest: link.dataset.trackInterest });
-        }
-    });
+  // Attach tracking via delegation instead of inline onclick
+  container.addEventListener('click', (e) => {
+    const link = e.target.closest('[data-track-interest]');
+    if (link) {
+      trackEvent('Lead', { interest: link.dataset.trackInterest });
+    }
+  });
 }
 
 function renderProjects(proyectos) {
-    const container = document.querySelector('#proyectos .grid');
-    if (!container) return;
+  const container = document.querySelector('#proyectos .grid');
+  if (!container) return;
 
-    container.innerHTML = proyectos.map((p, index) => {
-        const hasVideo = p.detalle.media_showcase?.some(m => m.tipo === 'video');
-        return `
+  container.innerHTML = proyectos.map((p, index) => {
+    const hasVideo = p.detalle.media_showcase?.some(m => m.tipo === 'video');
+    return `
     <article class="card-w project-card" data-id="${index}">
       <div class="case">
         <div>
@@ -99,5 +101,5 @@ function renderProjects(proyectos) {
       </div>
     </article>
     `;
-    }).join('');
+  }).join('');
 }

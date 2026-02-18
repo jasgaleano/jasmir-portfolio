@@ -40,6 +40,10 @@
     width: max-content;
     animation: marquee-scroll 30s linear infinite;
     will-change: transform;
+    transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 .marquee-logo {
@@ -52,11 +56,11 @@
 
 @keyframes marquee-scroll {
     0% {
-        transform: translateX(0);
+        transform: translate3d(0, 0, 0);
     }
 
     100% {
-        transform: translateX(-50%);
+        transform: translate3d(-50%, 0, 0);
     }
 }
 
